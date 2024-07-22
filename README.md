@@ -1,6 +1,7 @@
 ### Hi, I'm Dusan Mitic
 - 💻 I’m currently coding mainly in Python & JavaScript.
-- 📖 Interested in learning [Go](https://go.dev/)
+- 👯 I’m looking to collaborate on buulding MVC framework in PHP for beginners.
+- 📖 Interested in learning [Go](https://go.dev/).
 
 <!--
 **dusanmitic774/dusanmitic774** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
