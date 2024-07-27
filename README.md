@@ -1,6 +1,6 @@
 ### Hi, I'm Dusan Mitic
 - 💻 I’m currently coding mainly in Python & JavaScript.
-- 👯 I’m looking to collaborate on building MVC framework in PHP for beginners.
+- 👯 I’m looking to collaborate on building an MVC framework in PHP for beginners.
 - 📖 Interested in learning [Go](https://go.dev/).
 
 <!--
