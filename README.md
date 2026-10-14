@@ -4,6 +4,8 @@
 - 👯 I’m looking to collaborate on building an MVC framework in PHP for beginners.
 - 📖 Interested in learning [Go](https://go.dev/).
 
+Above is redundant. Now it's whatever AI goes for...
+
 <!--
 **dusanmitic774/dusanmitic774** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
